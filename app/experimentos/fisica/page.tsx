@@ -1,9 +1,9 @@
 'use client'
 
-export default function InglesPage() {
+export default function FisicaPage() {
   return (
     <main>
-      <h1>Inglés</h1>
+      <h1>Experimentos de Física</h1>
     </main>
   )
 }
